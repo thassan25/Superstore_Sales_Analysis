@@ -19,12 +19,15 @@ This project analyzes **9,800 sales transactions** from a fictional U.S. Superst
 
 ---
 ## Repository Structure
+
+```
 superstore-sales-analysis/ 
 │
 ├── 📄 README.md
 ├── 📊 Tarmin's Excel Project.xlsx
 ├── 📋 Input file_ Superstore sales.csv
 └── 📑 dashboard.pdf
+```
 
 ## 📁 File Structure
 
