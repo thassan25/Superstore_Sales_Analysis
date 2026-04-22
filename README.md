@@ -171,7 +171,7 @@ Demonstrates the use of Excel's **XLOOKUP** function to retrieve product details
 ## 👤 Author
 
 **Tarmin**  
-Data Analyst  
+Aspiring Data Analyst with hands-on experience in Excel, SQL, Python, PowerBI, Tableau and AI/ML. This repository showcases real-world projects built to solve practical data problems.
 
 ---
 
