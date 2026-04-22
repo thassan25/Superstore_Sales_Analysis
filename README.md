@@ -1,4 +1,4 @@
-# 🛒 Superstore Sales Analysis — Excel Project
+# 🛒 Superstore Sales Analysis — Excel Project with Dashboard
 This repository consists of uncleaned input data file, cleaned data file including dashboard and dashboard image.
 An end-to-end sales analytics project built in Microsoft Excel, exploring 4 years of U.S. Superstore transactional data (2015–2018) across product categories, customer segments, regions, and shipping modes — all visualized in an interactive dashboard.
 
